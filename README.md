@@ -1,7 +1,7 @@
 # Hello-World
 
 # Project Title
-*Hello World Sample* 😄
+*Hello World* 😄🧑‍💻
 
 # Description 
 This is an example of how to complete the BAIS ~~elective~~ required assignment. I'm completing all the categories that are mandatory. I've used multiple different syntax options. 
@@ -9,6 +9,6 @@ This is an example of how to complete the BAIS ~~elective~~ required assignment.
 - Purpose of project
 - Key features
 - Run the project
-- Data Storage 
+- Data storage 
 # Additional Documentation
 **There is NO** additional documentation at this time.
